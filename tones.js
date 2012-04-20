@@ -308,7 +308,7 @@ var title = d3.select('#text_copy')
     para_2 = instructions.append('p')
         .attr('id', 'para_2')
         .attr('class', 'text_copy')
-        .text("What I came up with was: \"Have the faces of those on the cover become more diverse over time?\" To adress this questions I chose to answer something more specific: Has the color values of skin tones in faces on the covers changed over time?"),
+        .text("What I came up with was: \"Have the faces of those on the cover become more diverse over time?\" To address this questions I chose to answer something more specific: Has the color values of skin tones in faces on the covers changed over time?"),
         
     para_3 = instructions.append('p')
         .attr('id', 'para_3')
