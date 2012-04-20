@@ -324,7 +324,7 @@ var title = d3.select('#text_copy')
     para_5 = instructions.append('p')
         .attr('id', 'para_3')
         .attr('class', 'text_copy')
-        .text('If you place the cursor over a cell it will highlight, and its corrsponding point in the scatter plot below will highlight as well. This plot is also ordered chronologically, but the vertical axis is the mean color value of the skin tone; ordered from lightest to darkest.')
+        .text('If you place the cursor over a cell it will highlight, and its corresponding point in the scatter plot below will highlight as well. This plot is also ordered chronologically, but the vertical axis is the mean color value of the skin tone; ordered from lightest to darkest.')
         
     para_6 = instructions.append('p')
         .attr('id', 'para_3')
