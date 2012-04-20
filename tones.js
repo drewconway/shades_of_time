@@ -319,7 +319,7 @@ var title = d3.select('#text_copy')
     para_4 = instructions.append('p')
         .attr('id', 'para_3')
         .attr('class', 'text_copy')
-        .text('The first panel is a horizontal histogram of cover chronology, where each cell represents the dominant skin tone from each face detected on a given TIME Magazine cover. The number of cells in each row corresponds to the number of faces detected.')
+        .text('The first panel is a vertical histogram of cover chronology, where each cell represents the dominant skin tone from each face detected on a given TIME Magazine cover. The number of cells in each row corresponds to the number of faces detected.')
         
     para_5 = instructions.append('p')
         .attr('id', 'para_3')
