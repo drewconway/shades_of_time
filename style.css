@@ -1,0 +1,60 @@
+text.decades {
+    font: 24px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    stroke: #000;
+}
+
+text.years {
+    font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    stroke: grey;
+}
+
+text.title_copy {
+    font: 24px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    stroke: #000;
+}
+
+p.text_copy{
+    font: 12px Arial, sans-serif;
+    stroke: #000;
+}
+
+a:link {
+    font: 12px Arial, sans-serif;
+    text-decoration: underline; 
+    color: #696969;
+}
+
+a:hover {
+    font: 12px Arial, sans-serif;
+    text-decoration: none;
+    color: darkgrey;
+}
+
+a:visited {
+    font: 12px Arial, sans-serif;
+    text-decoration: underline;
+    color: grey;
+}
+
+div.scrollable {
+    height: 550px !important;
+    min-height: 100%;
+    min-width: 760px;
+    height: 100%;
+    width: 100%;
+    overflow:scroll;
+}
+
+table {
+    border: 0px;
+    padding: 0px;
+    border-spacing: 0px;
+}
+
+table tr {
+    text-align: left;
+}
+
+table td {
+    vertical-align: top;
+}
