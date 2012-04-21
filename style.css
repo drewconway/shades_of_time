@@ -13,9 +13,28 @@ text.title_copy {
     stroke: #000;
 }
 
-p.text_copy{
+div#text_copy {
+   position: absolute;
+   left: 5px;
+   top: 5px;
+   width: 200px;
+   padding:.5em 0 0 0; 
+   margin:22px 0 0 15px;
     font: 12px Arial, sans-serif;
     stroke: #000;
+}
+
+div#color {
+   position: absolute;
+   left: 205px;
+   top: 5px;
+   height: 210px;
+}
+
+div#covers {
+   position: absolute;
+   /*left: 205px;*/
+   top: 215px;
 }
 
 a:link {
